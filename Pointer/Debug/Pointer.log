@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Example\c++\Урок 17 (Вказівники)\Pointer\Pointer\Source.cpp(37,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Pointer.vcxproj -> D:\Example\c++\Урок 17 (Вказівники)\Pointer\Debug\Pointer.exe
